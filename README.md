@@ -44,7 +44,7 @@ Stress Penalties: Automatically identifies and accounts for drought stress (low 
 Non-Negative Constraints: Post-processing layer ensures yields never drop below 0, regardless of extreme input data.
 🚥 Getting Started
 1. Clone the Repository
-git clone https://github.com/devthuva27/crop-yield-prediction.git
+git clone 
 cd crop-yield-prediction
 2. Backend Setup
 cd backend
